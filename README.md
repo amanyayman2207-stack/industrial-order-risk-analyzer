@@ -2,7 +2,7 @@
 
 Predicting high-risk late deliveries at order intake to optimize manufacturing dispatch schedules, prevent contract penalties, and improve B2B customer satisfaction.
 
-🔗 *Live Web App:* [Live App Link Here]  
+🔗 *Live Web App:* [https://industrial-order-risk-analyzer-kb6yy6dhrvlthg6dlntvi5.streamlit.app/]  
 📊 *Dataset Source:* [DataCo Smart Supply Chain Dataset (Kaggle)](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
 
 ---
